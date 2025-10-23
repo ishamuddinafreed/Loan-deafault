@@ -21,4 +21,4 @@ Data structured to represent both borrower demographics and financial performanc
 
 
 Screenshot:
-https://github.com/abdul-afreed/Loan-Default/blob/main/prog1-1.png
+https://github.com/ishamuddinafreed/Loan-deafault/blob/main/power%20bi%20project%201.png
