@@ -1,9 +1,9 @@
 💳 Loan Default Analytics Dashboard: Risk, Profitability & Borrower Insights.
-A comprehensive, interactive Power BI dashboard designed to analyze loan performance, borrower demographics, financial profitability, and risk metrics — helping banks and lending teams make data-driven credit decisions.
+A comprehensive, interactive Power BI dashboard designed to analyze loan performance, borrower demographics, financial profitability, and risk metrics helping banks and lending teams make data-driven credit decisions.
 
 
 Purpose: 
-The Loan Default Analytics Dashboard offers a 360° view of lending operations — tracking loan defaults, applicant characteristics, and risk exposure. It helps financial institutions identify high-risk borrower groups, understand profitability trends, and enhance decision-making to reduce credit losses.
+The Loan Default Analytics Dashboard offers a 360° view of lending operations tracking loan defaults, applicant characteristics, and risk exposure. It helps financial institutions identify high-risk borrower groups, understand profitability trends, and enhance decision-making to reduce credit losses.
 
 
 Tech Stack:
